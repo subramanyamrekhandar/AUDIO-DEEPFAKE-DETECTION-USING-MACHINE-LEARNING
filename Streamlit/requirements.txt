@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+pandas
+librosa
+tensorflow
+matplotlib
+keras
+Keras-Preprocessing
+lime
+scikit-image
+numpy
